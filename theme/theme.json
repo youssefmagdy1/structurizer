@@ -45,7 +45,10 @@
     "tag" : "Kubernetes - svc",
     "stroke" : "#3d6fdd",
     "color" : "#3d6fdd",
-    "icon" : "svc-256.png"
+    "icon" : "svc-256.png",
+    "shape": "Ellipse" ,
+    "width" :  "700" ,
+    "height" :  300 
   }, {
     "tag" : "Kubernetes - secret",
     "stroke" : "#3d6fdd",
