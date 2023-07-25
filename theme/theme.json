@@ -8,6 +8,9 @@
     "tag" : "redhat",
     "icon": "redhat.jpeg"
   },{
+    "tag" : "f5",
+    "icon": "f5.png"
+  },{
     "tag" : "was",
     "icon": "ibm-websphere.png"
   },{
