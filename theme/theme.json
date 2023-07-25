@@ -5,6 +5,12 @@
     "tag" : "springBoot",
     "icon": "spring-boot.png"
   },{
+    "tag" : "redhat",
+    "icon": "redhat.jpeg"
+  },{
+    "tag" : "was",
+    "icon": "ibm-websphere.png"
+  },{
     "tag" : "angular",
     "icon": "angular.png"
   },{
