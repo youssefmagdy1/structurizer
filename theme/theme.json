@@ -14,8 +14,10 @@
     "tag" : "was",
     "icon": "ibm-websphere.png"
   },{
-    "tag" : "angular",
-    "icon": "angular.png"
+    "tag" : "Angular",
+    "icon": "angular.png",
+    "background": "#a6120d",
+    "color": "#ffffff"
   },{
     "tag" : "oracle",
     "icon": "oracle.png"
